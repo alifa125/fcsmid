@@ -1,0 +1,3 @@
+001,cdaoud,20220802,male,12000
+002,manuella,20220803,female,120
+003,alifakih ,20220903,male,180
